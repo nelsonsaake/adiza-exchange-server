@@ -4,5 +4,5 @@ var (
 	SQLiteDBURL     = "adiza-exchange-server.db"
 	PublicDir       = ""
 	PhotosDIr       = "photos"
-	OnlinePhotosDIr = "photos"
+	OnlinePhotosDIr = "/photos"
 )
